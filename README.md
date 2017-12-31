@@ -1,7 +1,7 @@
 ## Laboratory work MMXVIII
 [![Build Status](https://travis-ci.org/VladislavMashkov/lab2018.svg?branch=master)](https://travis-ci.org/VladislavMashkov/lab2018)
 
-Данная лабораторная работа посвещена поздравлению Вячеслава Вадимовича с Новым Годом 2018
+Данная лабораторная работа посвящена поздравлению Вячеслава Вадимовича с Новым Годом 2018
 ```ShellSession
 $ open https://travis-ci.org/VladislavMashkov/lab2018
 ```
